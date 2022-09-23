@@ -1,0 +1,50 @@
+---
+name: double_pinyin.my
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+# 此处为扩充词库（基本）默认链接载入的词库
+import_tables:
+# 第一个不要删除
+  - luna_pinyin
+ # 诗词
+  - luna_pinyin.poetry
+ # 成语
+  - luna_pinyin.classical
+ #电脑词汇
+  - luna_pinyin.computer
+ # 电影名
+  - luna_pinyin.movie
+ # 音乐
+  - luna_pinyin.music
+ # 动漫
+  - luna_pinyin.anime
+ # 汉语大词典
+  - luna_pinyin.hanyu
+ # 基本词汇
+  - luna_pinyin.practical
+ # 精选词汇
+  - luna_pinyin.basis
+ # 历史
+  - luna_pinyin.history
+ # 聊天
+  - luna_pinyin.chat
+ # 生活
+  - luna_pinyin.daily
+ # 颜表情
+  - luna_pinyin.biaoqing
+# 俗语
+  - luna_pinyin.idiom
+# 饮食
+  - luna_pinyin.diet
+# 粤语
+  - luna_pinyin.gd
+# 游戏
+  - luna_pinyin.game
+...
+
+# 自定义词语
+英雄联盟    ying xiong leng meng    100
+吃鸡联盟    chi ji lian meng    100
+Emacs       Emacs   100
+一生之敌    yi sheng zhi di    100

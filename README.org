@@ -1,7 +1,7 @@
 * 说明
 ** Android 用户
-   Android 可能默认为 **繁体**，请设置文件 **tongwenfeng.trime.yaml** 和 **trime.yaml** 中的 
+   Android 可能默认为 繁体，请设置文件 tongwenfeng.trime.yaml 和 trime.yaml 中的 
 
-   **locale: zh_TW #缺省语言 zh_TW,zh_CN,zh_HK,""**
+   locale: zh_TW #缺省语言 zh_TW,zh_CN,zh_HK,""
 
-   **zh_TW 为简体**
+   zh_TW 为简体

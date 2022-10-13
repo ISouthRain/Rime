@@ -1,8 +1,0 @@
-# Rime user dictionary
-#@/db_name	double_pinyin.userdb
-#@/db_type	userdb
-#@/rime_version	1.5.3
-#@/tick	2
-#@/user_id	ISuthRain
-he 	和	c=1 d=0.995012 t=2
-qu bie 	區別	c=1 d=1 t=2

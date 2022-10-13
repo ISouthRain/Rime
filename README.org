@@ -1,3 +1,5 @@
+* 部分配置来源
+  - [[https://github.com/ssnhd/rime][ssnhd/rime]]
 * 说明
 ** Android 用户
    Android 可能默认为 繁体，请设置文件 tongwenfeng.trime.yaml 和 trime.yaml 中的 

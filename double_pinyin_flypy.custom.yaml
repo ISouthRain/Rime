@@ -11,7 +11,7 @@ patch:
       states: [ 半角, 全角 ]
     - name: simplification
       reset: 1
-      states: [ 漢字, 汉字 ]
+      states: [ 繁, 简 ]
     - name: ascii_punct
       states: [ 。，, ．， ]
   engine/translators:

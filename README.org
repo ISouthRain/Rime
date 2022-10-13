@@ -1,4 +1,4 @@
-* 部分配置来源
+* 感谢以下仓库的开发🙏
   - [[https://github.com/ssnhd/rime][ssnhd/rime]]
 * 说明
 ** Android 用户

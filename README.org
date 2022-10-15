@@ -1,10 +1,10 @@
 * 感谢你们的制作🙏
-  - [[https://github.com/ssnhd/rime][ssnhd/rime]]  鼠须管 配置
-  - 以及制作配置文件的各位作者
-* 说明
-** Android 用户
-   Android 可能默认为 繁体，请设置文件 tongwenfeng.trime.yaml 和 trime.yaml 中的 
-
-   locale: zh_TW #缺省语言 zh_TW,zh_CN,zh_HK,""
-
-   zh_TW 为简体
+- [[https://github.com/ssnhd/rime][ssnhd/rime]]  鼠须管 配置
+- 以及制作配置文件的各位作者
+- [[https://github.com/rime][RIME · GitHub]]
+* ⚠警告⚠
+** Android 用户 请参照以下方法安装, 不然可能会导致意想不到的错误
+- *请不要提前 clone 本仓库作为配置文件夹*
+- 先安装 Trime [[https://github.com/osfans/trime][GitHub - osfans/trime: 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for...]]
+- 进入软件部署一次
+- 然后 clone 本仓库 覆盖, *请不要复制 opencc 文件夹*

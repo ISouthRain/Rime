@@ -4,11 +4,11 @@
 - [[https://github.com/rime][RIME · GitHub]]
 * ⚠警告⚠
 ** Android 用户 请参照以下方法安装, 不然可能会导致意想不到的错误
-- *请不要提前 clone 本仓库作为配置文件夹*
+- ⚠ *请不要提前 clone 本仓库作为配置文件夹* ⚠
 - 先安装 Trime [[https://github.com/osfans/trime][GitHub - osfans/trime: 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for...]]
 - 进入软件部署一次
 - 然后 clone 本仓库 覆盖, *请不要复制 opencc 文件夹*
-- 重新部署
+- 重新部署(部署时间大概 10-20 分钟, 请耐心等待)
 
 * 说明
 ** 配置
@@ -18,3 +18,10 @@
 
 ** Android 用户
 - 方案主题建议使用 tongwenfang 方案
+*** 预览
+[[file:Attachment/README/说明/2022-10-15_13-05-28_1.jpg]]
+
+[[file:Attachment/README/说明/2022-10-15_13-06-01_2.jpg]]
+
+
+[[file:Attachment/README/说明/2022-10-15_13-06-06_3.jpg]]

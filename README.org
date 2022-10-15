@@ -8,3 +8,13 @@
 - 先安装 Trime [[https://github.com/osfans/trime][GitHub - osfans/trime: 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for...]]
 - 进入软件部署一次
 - 然后 clone 本仓库 覆盖, *请不要复制 opencc 文件夹*
+- 重新部署
+
+* 说明
+** 配置
+- [[https://ssnhd.com/2022/01/06/rime/][Rime Squirrel 鼠须管输入法配置详解 - 三十年河東(SSNHD.COM)-博客、分享、秒事]]
+** 主题(皮肤)
+- [[https://ssnhd.com/2022/01/11/rime-skin/][Rime Squirrel 鼠须管输入法皮肤效果 - 三十年河東(SSNHD.COM)-博客、分享、秒事]]
+
+** Android 用户
+- 方案主题建议使用 tongwenfang 方案

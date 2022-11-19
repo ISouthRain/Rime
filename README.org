@@ -11,7 +11,7 @@
 - ⚠ *请不要提前 clone 本仓库作为配置文件夹* ⚠
 - 先安装 Trime [[https://github.com/osfans/trime][GitHub - osfans/trime: 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for...]]
 - 进入软件部署一次
-- 然后 clone 本仓库 覆盖, *请不要复制 opencc 文件夹*
+- 然后 clone 本仓库 覆盖, *将 opencc 文件复制到 opencc 文件夹*
 - 重新部署(部署时间大概 10-20 分钟, 请耐心等待)
 
 * 说明

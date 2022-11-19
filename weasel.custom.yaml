@@ -409,6 +409,8 @@ patch:
         ascii_mode: true
     com.xunyong.hapigo:              # hapigo
         ascii_mode: true
+    KeePass.exe:              # hapigo
+        ascii_mode: true
 
   "style/color_scheme": nord_dark
   "style/color_scheme_dark": mac_dark

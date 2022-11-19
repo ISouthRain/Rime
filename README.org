@@ -1,7 +1,11 @@
+* 本配置原本来源于 鼠须管, 经过修改以支持其余平台
+本配置修改自 ➡ [[https://github.com/ssnhd/rime][ssnhd/rime]]
+
 * 感谢你们的制作🙏
 - [[https://github.com/ssnhd/rime][ssnhd/rime]]  鼠须管 配置
 - 以及制作配置文件的各位作者
 - [[https://github.com/rime][RIME · GitHub]]
+
 * ⚠警告⚠
 ** Android 用户 请参照以下方法安装, 不然可能会导致意想不到的错误
 - ⚠ *请不要提前 clone 本仓库作为配置文件夹* ⚠

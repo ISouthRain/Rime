@@ -1,6 +1,0 @@
-2022/11/19-21:48:40.954000 15460 Log #184: 680 ops saved to Table #186 OK
-2022/11/19-21:48:40.954000 15460 Archiving F:\Rime\luna_pinyin.userdb/000184.log: OK
-2022/11/19-21:48:40.955000 15460 Table #185: 1497 entries OK
-2022/11/19-21:48:40.955000 15460 Table #186: 680 entries OK
-2022/11/19-21:48:40.956000 15460 Archiving F:\Rime\luna_pinyin.userdb/MANIFEST-000183: OK
-2022/11/19-21:48:40.960000 15460 **** Repaired leveldb F:\Rime\luna_pinyin.userdb; recovered 2 files; 81761 bytes. Some data may have been lost. ****

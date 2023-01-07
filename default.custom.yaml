@@ -5,7 +5,8 @@ patch:
     - schema: double_pinyin # 自然码双拼
     - schema: numbers # 大写数字
     - schema: easy_en # english
-
+  switcher/hotkeys: 
+    - "Control+grave" # 注意是control+`，不是command+`
   menu/page_size: 6 # 候选词个数
 
   # 若 caps 切换大小写无效, 打开 Mac 系统偏好设置 > 键盘 > 输入法 > 取消勾选[使用大写锁定键切换“美国”输入模式]
